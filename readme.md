@@ -9,6 +9,8 @@ This is project 6 / 20.
 
 You can find the live version of my project [here](https://rperry99.github.io/animation-template/)
 
+You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+
 ## Thoughts
 
 I found a couple nice new resources from this project. [Radnomuser.me](https://randomuser.me/) which is a way to generate random people really easily. Another one is the [Animate on Scroll](https://michalsnik.github.io/aos/) library. I really need to start trying to use more libraries like this in my projects. There are too many times I try to do something by hand when I could probably just do a few lines from a library and make it 100 times easier.
